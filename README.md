@@ -1,8 +1,7 @@
 # Credit Card Fraud Analysis
 
 1. Data Exploration and Visualization
-2. Data Preprocessing
-3. Feature Engineering
+2. Data Preprocessing and Feature Engineering
 4. SMOTE for imbalanced classification
 5. Random Forest
 6. Model Validation and Evaluation
